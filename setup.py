@@ -25,8 +25,8 @@ setup(
     package_data={'': ['LICENSE']},
     zip_safe=False,
     install_requires=[
-        'Flask>=1.0.0',
-        'redis>=3.0.0',
+        'Flask>=0.9',
+        'redis>=2.10',
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
