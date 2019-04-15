@@ -10,6 +10,7 @@ pytest-mock = "*"
 [packages]
 flask = ">=0.9"
 redis = ">=2.10"
+Jinja2 = ">=2.10.1"
 
 [requires]
 python_version = "3"
